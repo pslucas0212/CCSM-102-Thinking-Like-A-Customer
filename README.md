@@ -30,6 +30,10 @@ Bain & Company - "80% of senior managers think their organization are customer-f
 
   
 ## Channeling Your Customers
+- To channel the customer it requires effort to think like your customer.  Put yourself in your customer's shoes
+- The solution isn't a process - it's a change of mindset.  It change in habit and that's tough change.  Take small practical steps that you repeat ofte enough
+- A helpful first is to introduce your customers "virtually" into decision you are making internally.  Ask those considering the change "What would our customers think of this new change feature, process change or product? Would customer like this?"  "How does this impact our customers?" "Is there a way to do this that would be better for our customers?"
+  
 
 ## Raising Awareness
 
