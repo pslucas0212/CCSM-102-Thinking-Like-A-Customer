@@ -24,7 +24,10 @@
 - Customer won't sign a deal because product doesn't do something the customer wants.  THe product bumps current requests to add features the prospect wants to close the current deal.  The product team should prioritize what customers want/need to make product better/stronger rather one or two prospects
 
 #### Shiny thing syndrome
-- MVP get new features into customers hands early.  Valid theory.  MVP is minimum feature that the customer wants and the product team focuses on next shiny thing.  
+- MVP get new features into customers hands early.  Valid theory.  MVP is minimum feature that the customer wants and the product team focuses on next shiny thing.
+
+Bain & Company - "80% of senior managers think their organization are customer-focused.  Only 8% of their customers agreed."  To be customer focused requires commitment, investment and focus.  
+
   
 ## Channeling Your Customers
 
