@@ -36,4 +36,13 @@ Bain & Company - "80% of senior managers think their organization are customer-f
   
 
 ## Raising Awareness
+- Challenge your colleagues to think differently.  We are developing products and services for customers not ourselves
+- Invite colleagues from other departments and roles to join when you go on-site with customers. Engineer, developers, product management team.  Let them see the product being used by the customer
+- Invite a customer into the office for "lunch and learn" and buy pizza for everyone that shows up.  Meet the real people you are building product for.  Let the customer talk about what they like about your product, how they use your product, and what may be frustrating about your product
+- Invite a customer to share their store at your next all-hands meeting.  Dedicate 5~10 minutes to a customer share an update for their business and what we've done to help them and what they would like to see in the product
+- Share news about your customers' business success on internal channels.
+- Create a slack channel in which you share ad-hoc feedback (good and bad) that you recieve from customers.  Fine ways to share that information frictionless.  
+- Challenge teammates to spend time helping out in customer-facing roles.  Get CEOs, finance teams, developers and put them in the 1st line support role for a day.  This will give them great feedback from customers undiluted unfiltered directly from the customer.  They will learn that being on 1st level support is a hard job to do day-to-day.
+- Buy or use your customers' products and services.  Try to use customers' products and services to see what their business is like.  Encourage your employees to know about your customers.
 
+Whatever techniques you choose to raise aweareness make them a habit and not a fad.  Do it consistnently.  Share the learnings and stories you learn from you customer with your colleagues.
