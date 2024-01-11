@@ -46,3 +46,5 @@ Bain & Company - "80% of senior managers think their organization are customer-f
 - Buy or use your customers' products and services.  Try to use customers' products and services to see what their business is like.  Encourage your employees to know about your customers.
 
 Whatever techniques you choose to raise aweareness make them a habit and not a fad.  Do it consistnently.  Share the learnings and stories you learn from you customer with your colleagues.
+
+
